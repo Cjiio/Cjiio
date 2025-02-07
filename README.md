@@ -4,7 +4,7 @@
 
 **😆 The number of visits to the homepage**
 
-[![](https://count.getloli.com/get/@Cjiio.github.readme)](https://count.getloli.com/)
+[![](https://count.getloli.com/get/@Cjiio.github.readme)](https://count.getloli.com/@:namerule34)
 
 - 🚀 I use daily: <img src="https://user-images.githubusercontent.com/46998172/188528750-03b1eaa4-eb23-4a5a-becd-5fcf393f2ab6.png" width="35"/> <img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" width="40"/> <img src="https://user-images.githubusercontent.com/46998172/188529229-93a41aef-2fe8-4ba8-af76-6579ad33c73e.png" width="40"/> <img src="https://user-images.githubusercontent.com/46998172/188529289-597cb8c5-0bbb-42ae-988d-2f9dd9b284db.png" width="40"/>
 
